@@ -19,5 +19,13 @@ The To-Do List Application is a Python-based application that allows users to:
 - Conditional Statements
 - User Input
 
+- ## Output Screenshots
+
+### Menu
+![Menu](Screenshot%20(2).png)
+
+### Tasks
+![Tasks](Screenshot%20(3).png)
+
 ## Author
 N. Nagalakshmi
